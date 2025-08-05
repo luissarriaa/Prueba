@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```cpm install react```
+
+Sistema de registro 2
